@@ -12,5 +12,5 @@ We also learned how to use media queries to work with responsiveness for differe
 ## How to execute
 Clone this repository and open the **index.html** on any web browser. 
 
-![alt text](https://imgur.com/fy9FsiN)
-![alt text](https://imgur.com/oR9g0uT)
+![alt text](https://i.imgur.com/FojHkjI.png)
+![alt text](https://i.imgur.com/oR9g0uT.png)
